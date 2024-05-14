@@ -1,12 +1,9 @@
 import streamlit as st
 import streamlit.components.v1 as stc
-from os import walk, path
-import os
 import numpy as np
+import os
 import tensorflow_hub as hub
 import tensorflow as tf
-import matplotlib.pyplot as plt
-import numpy as np
 import cv2
 from PIL import Image
 
