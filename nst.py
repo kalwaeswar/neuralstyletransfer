@@ -5,7 +5,6 @@ import os
 import tensorflow_hub as hub
 import tensorflow as tf
 import cv2
->>>>>>> 02baac4042986e339edb919dc4dc10266e72e98f
 from PIL import Image
 import numpy as np
 import tensorflow as tf
