@@ -25,7 +25,7 @@ This repository contains a Streamlit app for performing neural style transfer. N
     streamlit run app.py
     ```
 
-2. Open your web browser and go to `http://localhost:8501` to access the app.
+2. Open your web browser and go to `https://kalwaeswar-nst.streamlit.app` to access the app.
 
 3. Upload an input image and a style image using the provided file upload buttons.
 
